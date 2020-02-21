@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Submission 3 Aplikasi Movie Catalog</string>
+    <string name="title_movies">Movies</string>
+    <string name="title_tvshows">Tv Shows</string>
+
+    <string name="image_deskripsi">DETAIL PICTURE</string>
+
+    <string name="title">TITLE</string>
+    <string name="title_get">TITLE GET</string>
+    <string name="year">YEAR RELEASE</string>
+    <string name="year_get">YEAR RELEASE GET</string>
+    <string name="description">DESCRIPTION</string>
+    <string name="description_get">DESCRIPTION GET</string>
+
+</resources>
